@@ -9,6 +9,3 @@ pobiera commity 1 2 3
 
 
 dsadass 
-
-
-1233123
