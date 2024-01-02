@@ -8,4 +8,7 @@ cyk pyk mdtx krullll
 pobiera commity 1 2 3
 
 
-dsadass 
+dsadass  
+
+
+lk
