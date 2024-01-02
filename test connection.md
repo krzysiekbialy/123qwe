@@ -11,4 +11,4 @@ pobiera commity 1 2 3
 dsadass  
 
 
-lk
+buck
