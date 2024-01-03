@@ -12,5 +12,3 @@ dsadass
 
 
 buck 1100
-
-dsadas
