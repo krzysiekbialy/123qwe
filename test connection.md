@@ -15,3 +15,4 @@ buck 1100
 22222
 
 sprawdzamy
+lakersi sso
