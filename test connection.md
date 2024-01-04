@@ -18,4 +18,4 @@ sprawdzamy
 lakersi sso
 nj nie  
 
-lalaal pyk
+lalaal
