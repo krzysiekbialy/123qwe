@@ -16,3 +16,4 @@ buck 1100
 
 sprawdzamy
 lakersi sso
+nj nie 
