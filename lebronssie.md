@@ -1,1 +1,1 @@
-nie jest to prawda a kobas to buk
+nie jest to prawda a kobas nie umie 
