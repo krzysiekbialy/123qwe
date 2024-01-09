@@ -1,1 +1,1 @@
-Here you can type your text..
+nie jest to prawda a kobas to buk
